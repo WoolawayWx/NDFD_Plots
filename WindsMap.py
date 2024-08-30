@@ -51,7 +51,7 @@ for weatherdata in weather_params:
     temps.append(float(weatherdata[0][1].text))
 
 for weatherdata in weather_params:
-    max_wind = max(float(weatherdata[2][i].text) for i in range(1, 10))
+    max_wind = max(float(weatherdata[2][i].text) for i in range(1, 3))
     winds.append(max_wind * 2)
 
 # Interpolation Grid Setup
@@ -141,4 +141,4 @@ for town, (lat_town, lon_town) in towns_coords.items():
             transform=ccrs.PlateCarree(), ha='center', va='bottom', fontweight='bold')
 
 plt.title('Forecasted Highest Sustained Winds(MPH)')
-plt.savefig('map_winds.png', bbox_inches='tight', dpi=300)
+plt.savefig('map_winds.jpg', bbox_inches='tight', dpi=200)

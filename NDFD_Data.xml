@@ -5,7 +5,7 @@
       <title>NOAA's National Weather Service Forecast Data</title>
       <field>meteorological</field>
       <category>forecast</category>
-      <creation-date refresh-frequency="PT30M">2024-08-29T14:49:09Z</creation-date>
+      <creation-date refresh-frequency="PT30M">2024-08-30T14:52:36Z</creation-date>
     </product>
     <source>
       <more-information>https://digital.weather.gov/xml/</more-information>
@@ -289,37 +289,37 @@
     <moreWeatherInformation applicable-location="point54">http://forecast.weather.gov/MapClick.php?textField1=37.44&amp;textField2=-92.42</moreWeatherInformation>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p24h-n1-1</layout-key>
-      <start-valid-time>2024-08-29T08:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-08-29T20:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-08-30T08:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-08-30T20:00:00-05:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p1h-n16-2</layout-key>
-      <start-valid-time>2024-08-29T10:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T11:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T12:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T13:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T14:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T15:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T16:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T17:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T18:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T19:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T20:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T21:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T22:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-29T23:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-30T00:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-08-30T01:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T10:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T11:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T12:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T13:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T14:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T15:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T16:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T17:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T18:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T19:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T20:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T21:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T22:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-30T23:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-31T00:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-08-31T01:00:00-05:00</start-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p24h-n1-3</layout-key>
-      <start-valid-time>2024-08-29T09:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-08-30T07:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-08-30T09:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-08-31T07:00:00-05:00</end-valid-time>
     </time-layout>
     <parameters applicable-location="point1">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>95</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -327,1724 +327,44 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point2">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point3">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point4">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
+        <value>3</value>
         <value>4</value>
         <value>4</value>
         <value>3</value>
         <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>10</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point5">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
+        <value>4</value>
+        <value>4</value>
         <value>4</value>
         <value>4</value>
         <value>3</value>
+        <value>4</value>
         <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
         <value>5</value>
         <value>5</value>
+        <value>5</value>
         <value>6</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
         <value>6</value>
         <value>5</value>
-        <value>5</value>
+        <value>4</value>
         <value>4</value>
         <value>4</value>
         <value>3</value>
         <value>3</value>
       </wind-speed>
     </parameters>
-    <parameters applicable-location="point6">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point7">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>6</value>
-        <value>7</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point8">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point9">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point10">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point11">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point12">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point13">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>7</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point14">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point15">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point16">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point17">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point18">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point19">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>92</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point20">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point21">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point22">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point23">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>7</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point24">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point25">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>91</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point26">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point27">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point28">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point29">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point30">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>12</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point31">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>91</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point32">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>95</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>2</value>
-        <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point33">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>98</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>2</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point34">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
-        <value>6</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point35">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point36">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>94</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>7</value>
-        <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point37">
+    <parameters applicable-location="point2">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
         <value>89</value>
@@ -2057,16 +377,208 @@
         <name>Wind Speed</name>
         <value>3</value>
         <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point3">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point4">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
         <value>4</value>
         <value>4</value>
         <value>4</value>
-        <value>4</value>
-        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
         <value>4</value>
         <value>4</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point5">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point6">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>85</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
         <value>4</value>
         <value>3</value>
         <value>3</value>
@@ -2074,28 +586,1516 @@
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point7">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>90</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point8">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point9">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point10">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point11">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
         <value>7</value>
         <value>8</value>
         <value>8</value>
         <value>9</value>
         <value>9</value>
         <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point12">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>85</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
         <value>9</value>
         <value>9</value>
-        <value>10</value>
-        <value>10</value>
         <value>9</value>
-        <value>10</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point13">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point14">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point15">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>88</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point16">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point17">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>88</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point18">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>86</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
         <value>9</value>
         <value>9</value>
         <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point19">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>84</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point20">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point21">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point22">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point23">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point24">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point25">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>83</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point26">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point27">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>86</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point28">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point29">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point30">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>88</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point31">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point32">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>86</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point33">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point34">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>86</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point35">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>88</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point36">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>89</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point37">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point38">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>95</value>
+        <value>87</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2104,46 +2104,46 @@
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
         <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point39">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>86</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2151,47 +2151,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
         <value>7</value>
         <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point40">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2199,47 +2199,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
         <value>7</value>
-        <value>7</value>
-        <value>9</value>
-        <value>10</value>
         <value>7</value>
         <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point41">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>88</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2247,47 +2247,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
         <value>4</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
         <value>8</value>
-        <value>10</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point42">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2295,47 +2295,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
         <value>5</value>
         <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point43">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>88</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2346,44 +2346,44 @@
         <value>2</value>
         <value>2</value>
         <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
         <value>2</value>
         <value>2</value>
         <value>2</value>
-        <value>2</value>
-        <value>2</value>
-        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
         <value>5</value>
+        <value>5</value>
+        <value>6</value>
         <value>6</value>
         <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
+        <value>7</value>
         <value>7</value>
         <value>7</value>
         <value>6</value>
-        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point44">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2393,45 +2393,45 @@
         <name>Wind Speed</name>
         <value>2</value>
         <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
         <value>2</value>
         <value>2</value>
         <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
         <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
+        <value>7</value>
         <value>6</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
         <value>7</value>
         <value>6</value>
         <value>6</value>
         <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point45">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>88</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2439,47 +2439,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
+        <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
         <value>3</value>
         <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>6</value>
         <value>6</value>
         <value>7</value>
         <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>8</value>
         <value>7</value>
         <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point46">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>88</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2487,47 +2487,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>5</value>
-        <value>4</value>
+        <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
         <value>7</value>
         <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point47">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>87</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2535,47 +2535,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point48">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2583,47 +2583,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
         <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
         <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point49">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>85</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2633,45 +2633,45 @@
         <name>Wind Speed</name>
         <value>2</value>
         <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>5</value>
+        <value>6</value>
+        <value>6</value>
         <value>6</value>
         <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
         <value>7</value>
         <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point50">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>98</value>
+        <value>90</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2679,47 +2679,47 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>1</value>
         <value>2</value>
         <value>2</value>
         <value>2</value>
-        <value>3</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
         <value>2</value>
         <value>2</value>
         <value>2</value>
         <value>1</value>
         <value>1</value>
         <value>1</value>
+        <value>0</value>
+        <value>0</value>
+        <value>0</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>4</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>6</value>
         <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
+        <value>6</value>
+        <value>6</value>
         <value>6</value>
         <value>6</value>
         <value>5</value>
         <value>4</value>
-        <value>4</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point51">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>96</value>
+        <value>87</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2727,95 +2727,95 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>3</value>
-        <value>4</value>
+        <value>2</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
-        <value>3</value>
-        <value>3</value>
-        <value>3</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-      </wind-speed>
-    </parameters>
-    <parameters applicable-location="point52">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>96</value>
-      </temperature>
-      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
-        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
-        <value>No Areas</value>
-      </fire-weather>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
-        <name>Wind Speed</name>
-        <value>3</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
         <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
         <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
         <value>7</value>
-        <value>7</value>
-        <value>7</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>10</value>
-        <value>9</value>
         <value>8</value>
         <value>7</value>
         <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+      </wind-speed>
+    </parameters>
+    <parameters applicable-location="point52">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>87</value>
+      </temperature>
+      <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
+        <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
+        <value>No Areas</value>
+      </fire-weather>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point53">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>92</value>
+        <value>86</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2823,15 +2823,6 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
         <value>4</value>
         <value>4</value>
         <value>4</value>
@@ -2839,31 +2830,40 @@
         <value>4</value>
         <value>4</value>
         <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
         <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>10</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
     </parameters>
     <parameters applicable-location="point54">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>94</value>
+        <value>89</value>
       </temperature>
       <fire-weather type="risk from temperature, wind, and relative humidity" time-layout="k-p24h-n1-3">
         <name>Fire Weather Outlook from Temperature, Wind, and Relative Humidity</name>
@@ -2871,15 +2871,7 @@
       </fire-weather>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed</name>
-        <value>4</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>4</value>
+        <value>2</value>
         <value>3</value>
         <value>3</value>
         <value>3</value>
@@ -2887,25 +2879,33 @@
         <value>3</value>
         <value>3</value>
         <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n16-2">
         <name>Wind Speed Gust</name>
-        <value>9</value>
         <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>11</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
       </wind-speed>
     </parameters>
   </data>

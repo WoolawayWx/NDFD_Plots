@@ -27,7 +27,6 @@ root = tree.getroot()
 
 lat = []
 long = []
-temps = []
 towns = [ ... ]  # your list of towns
 winds = []
 
@@ -48,18 +47,14 @@ for location in location_elements:
 weather_params = root.findall('.//parameters')
 
 for weatherdata in weather_params:
-    temps.append(float(weatherdata[0][1].text))
-
-for weatherdata in weather_params:
-    max_wind = max(float(weatherdata[3][i].text) for i in range(1, 10))
+    max_wind = max(float(weatherdata[3][i].text) for i in range(1, 3))
     winds.append(max_wind * 2)
 
 # Interpolation Grid Setup
 grid_lon, grid_lat = np.meshgrid(np.linspace(wlon, elon, 100), np.linspace(slat, nlat, 100))
-grid_temps = griddata((long, lat), temps, (grid_lon, grid_lat), method='cubic')
 grid_winds = griddata((long, lat), winds, (grid_lon, grid_lat), method='cubic')
 
-data = list(zip(lat, long, temps, winds))
+data = list(zip(lat, long, winds))
 
 # Lambert Conformal Projection adjusted for your region
 map_crs = ccrs.LambertConformal(central_longitude=(wlon + elon) / 2,
@@ -141,4 +136,4 @@ for town, (lat_town, lon_town) in towns_coords.items():
             transform=ccrs.PlateCarree(), ha='center', va='bottom', fontweight='bold')
 
 plt.title('Forecasted Max Wind Gusts (MPH)')
-plt.savefig('map_windgusts.png', bbox_inches='tight', dpi=300)
+plt.savefig('map_windgusts.jpg', bbox_inches='tight', dpi=200)

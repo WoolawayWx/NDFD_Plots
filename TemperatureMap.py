@@ -127,4 +127,4 @@ for town, (lat_town, lon_town) in towns_coords.items():
             transform=ccrs.PlateCarree(), ha='center', va='bottom', fontweight='bold')
 
 plt.title('Forecasted High Temperatures (ºF)')
-plt.savefig('map_temp.png', bbox_inches='tight', dpi=300)
+plt.savefig('map_temp.jpg', bbox_inches='tight', dpi=200)
