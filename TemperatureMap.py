@@ -8,6 +8,7 @@ import numpy as np
 from scipy.interpolate import griddata
 from scipy.spatial import cKDTree
 from matplotlib.colors import ListedColormap, BoundaryNorm
+import json
 
 # Load In Shapefiles
 fname = 'shapefiles/states/ne_10m_admin_1_states_provinces_lines.shp'
@@ -60,8 +61,8 @@ map_crs = ccrs.LambertConformal(central_longitude=(wlon + elon) / 2,
                                 standard_parallels=(30, 60))
 
 # Define min/max temperature
-min_temp = 70  # Minimum temperature
-max_temp = 100  # Maximum temperature
+min_temp = min(temps) # Minimum temperature
+max_temp = max(temps) # Maximum temperature
 
 # Generate 100 temperature breaks
 bounds = np.linspace(min_temp, max_temp, 100)
@@ -87,35 +88,16 @@ ax.add_feature(Counties, edgecolor='gray', linewidth=0.75)
 contour = ax.contourf(grid_lon, grid_lat, grid_temps, transform=ccrs.PlateCarree(),
                       cmap=cmap, norm=norm, zorder=3, alpha=0.7)
 plt.colorbar(contour, ax=ax, orientation='vertical', label='Temperature (ºF)', shrink=0.5)
-# Town coordinates (example)
-towns_coords = {
-    "Rocky Comfort": (36.743364, -94.092425),
-    "Cassville": (36.6815, -93.8655),
-    "Anderson": (36.646879, -94.443386),
-    "Joplin": (37.075394, -94.507271),
-    "Neosho": (36.857717, -94.374520),
-    "Miami": (36.88719530554497, -94.87761931913234),
-    "Grove": (36.58435482022429, -94.77114227415328),
-    "Decatur": (36.340013237978596, -94.46301790267803),
-    "Bentonville": (36.360597235995144, -94.23202598080331),
-    "Rogers": (36.310141983858564, -94.12241725803072),
-    "Springdale": (36.166165333199736, -94.14538289518306),
-    "Eureka Springs": (36.39969218029382, -93.73960032050323),
-    "Shell Knob": (36.623708470880956, -93.62059656112679),
-    "Branson": (36.63878735470797, -93.2301807196966),
-    "Crane": (36.89968539849111, -93.57570916974939),
-    "Aurora": (36.96060061140863, -93.71454688526131),
-    "Billings": (37.06312841377201, -93.55587521039052),
-    "Monett": (36.91387548089791, -93.92332540482813)
-    # Add more towns with their coordinates
-}
+
+with open('towns.json', 'r') as f:
+    towns =json.load(f)
 
 # KDTree for fast nearest neighbor search
 grid_points = np.array([grid_lon.flatten(), grid_lat.flatten()]).T
 tree = cKDTree(grid_points)
 
 # Extract temperatures at town locations
-for town, (lat_town, lon_town) in towns_coords.items():
+for town, (lat_town, lon_town) in towns.items():
     # Find the nearest grid point
     dist, idx = tree.query([lon_town, lat_town])
     nearest_temp = grid_temps.flatten()[idx]

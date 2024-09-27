@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/downloadData.cpython-312.pyc
+__pycache__/TemperatureMap.cpython-312.pyc
+__pycache__/WindGustsMap.cpython-312.pyc
+__pycache__/
+__pycache__/
+pycache/*
+*.jpg
+
+.env
