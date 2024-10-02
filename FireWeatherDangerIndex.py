@@ -51,7 +51,7 @@ area = (wlon, elon, slat, nlat)
 # Varible Weights
 Temp = 0.15
 # Manual max is 0.15
-Manual = 0.04
+Manual = 0.13
 FuelMoisture_Var = 0.25
 Wind_Sus = 0.1
 Wind_Gusts = 0.15

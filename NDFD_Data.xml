@@ -5,7 +5,7 @@
       <title>NOAA's National Weather Service Forecast Data</title>
       <field>meteorological</field>
       <category>forecast</category>
-      <creation-date refresh-frequency="PT30M">2024-09-27T14:25:14Z</creation-date>
+      <creation-date refresh-frequency="PT30M">2024-10-02T14:19:57Z</creation-date>
     </product>
     <source>
       <more-information>https://digital.weather.gov/xml/</more-information>
@@ -289,42 +289,42 @@
     <moreWeatherInformation applicable-location="point54">http://forecast.weather.gov/MapClick.php?textField1=37.44&amp;textField2=-92.42</moreWeatherInformation>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p24h-n1-1</layout-key>
-      <start-valid-time>2024-09-27T08:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-09-27T20:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-10-02T08:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-10-02T20:00:00-05:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p1h-n17-2</layout-key>
-      <start-valid-time>2024-09-27T09:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T10:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T11:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T12:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T13:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T14:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T15:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T16:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T17:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T18:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T19:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T20:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T21:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T22:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-27T23:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-28T00:00:00-05:00</start-valid-time>
-      <start-valid-time>2024-09-28T01:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T09:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T10:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T11:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T12:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T13:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T14:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T15:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T16:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T17:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T18:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T19:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T20:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T21:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T22:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-02T23:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-03T00:00:00-05:00</start-valid-time>
+      <start-valid-time>2024-10-03T01:00:00-05:00</start-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p6h-n3-3</layout-key>
-      <start-valid-time>2024-09-27T07:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-09-27T13:00:00-05:00</end-valid-time>
-      <start-valid-time>2024-09-27T13:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-09-27T19:00:00-05:00</end-valid-time>
-      <start-valid-time>2024-09-27T19:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-09-28T01:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-10-02T07:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-10-02T13:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-10-02T13:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-10-02T19:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-10-02T19:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-10-03T01:00:00-05:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p12h-n1-4</layout-key>
-      <start-valid-time>2024-09-27T13:00:00-05:00</start-valid-time>
-      <end-valid-time>2024-09-28T01:00:00-05:00</end-valid-time>
+      <start-valid-time>2024-10-02T13:00:00-05:00</start-valid-time>
+      <end-valid-time>2024-10-03T01:00:00-05:00</end-valid-time>
     </time-layout>
     <parameters applicable-location="point1">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
@@ -339,47 +339,47 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
         <value>6</value>
         <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>12</value>
-        <value>14</value>
-        <value>17</value>
-        <value>18</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>17</value>
-        <value>15</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
+        <value>5</value>
+        <value>6</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
         <value>9</value>
         <value>9</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>42</value>
+        <value>27</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point2">
@@ -395,47 +395,47 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>9</value>
-        <value>10</value>
-        <value>12</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
         <value>8</value>
         <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>12</value>
-        <value>15</value>
-        <value>17</value>
-        <value>19</value>
-        <value>20</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>20</value>
-        <value>19</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
+        <value>5</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
         <value>11</value>
         <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point3">
@@ -451,53 +451,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
         <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
         <value>12</value>
-        <value>15</value>
-        <value>17</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>17</value>
-        <value>16</value>
-        <value>14</value>
-        <value>13</value>
         <value>12</value>
         <value>12</value>
         <value>11</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>44</value>
+        <value>29</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point4">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>82</value>
+        <value>84</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -507,47 +507,47 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
         <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>7</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
         <value>12</value>
-        <value>15</value>
-        <value>17</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>16</value>
-        <value>14</value>
-        <value>13</value>
+        <value>12</value>
+        <value>12</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
         <value>12</value>
         <value>11</value>
-        <value>10</value>
-        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point5">
@@ -563,47 +563,47 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
         <value>8</value>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
         <value>7</value>
         <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>9</value>
-        <value>12</value>
-        <value>16</value>
-        <value>18</value>
-        <value>20</value>
-        <value>22</value>
-        <value>22</value>
-        <value>21</value>
-        <value>19</value>
-        <value>17</value>
-        <value>13</value>
-        <value>10</value>
-        <value>7</value>
         <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+        <value>13</value>
+        <value>13</value>
+        <value>12</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>21</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point6">
@@ -619,53 +619,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
-        <value>8</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>6</value>
         <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
         <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>6</value>
+        <value>8</value>
         <value>9</value>
-        <value>13</value>
-        <value>15</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>15</value>
-        <value>13</value>
+        <value>10</value>
         <value>11</value>
-        <value>7</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
+        <value>13</value>
+        <value>13</value>
+        <value>12</value>
+        <value>11</value>
+        <value>12</value>
+        <value>13</value>
+        <value>14</value>
+        <value>14</value>
+        <value>14</value>
+        <value>15</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>41</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point7">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>82</value>
+        <value>84</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -675,47 +675,47 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>5</value>
-        <value>6</value>
-        <value>8</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
         <value>4</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>12</value>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>18</value>
-        <value>19</value>
-        <value>18</value>
-        <value>17</value>
-        <value>16</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
         <value>9</value>
         <value>9</value>
+        <value>9</value>
+        <value>8</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>24</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point8">
@@ -731,53 +731,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>8</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>12</value>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>18</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>17</value>
-        <value>15</value>
-        <value>15</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
         <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>22</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point9">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>82</value>
+        <value>84</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -787,52 +787,108 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>12</value>
-        <value>12</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>12</value>
-        <value>15</value>
-        <value>17</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>18</value>
-        <value>16</value>
-        <value>15</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
         <value>10</value>
         <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>39</value>
+        <value>21</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point10">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
+        <value>84</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>7</value>
+        <value>9</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>21</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point11">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
         <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
@@ -843,75 +899,19 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>6</value>
         <value>6</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>13</value>
-        <value>16</value>
-        <value>18</value>
-        <value>20</value>
-        <value>20</value>
-        <value>21</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point11">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>80</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
         <value>7</value>
-        <value>8</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
+        <value>7</value>
         <value>7</value>
         <value>6</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>5</value>
         <value>5</value>
@@ -919,33 +919,33 @@
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>7</value>
-        <value>9</value>
-        <value>13</value>
-        <value>15</value>
-        <value>17</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>17</value>
-        <value>15</value>
-        <value>11</value>
-        <value>7</value>
         <value>6</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
-        <value>5</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>42</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point12">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>78</value>
+        <value>80</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -955,53 +955,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>7</value>
+        <value>2</value>
+        <value>4</value>
         <value>5</value>
-        <value>4</value>
-        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
         <value>7</value>
+        <value>8</value>
+        <value>9</value>
         <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
         <value>12</value>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>15</value>
-        <value>13</value>
+        <value>11</value>
+        <value>11</value>
         <value>10</value>
-        <value>7</value>
-        <value>5</value>
-        <value>4</value>
-        <value>4</value>
-        <value>5</value>
-        <value>6</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>46</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point13">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>80</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1011,53 +1011,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>18</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>18</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point14">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>78</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1067,53 +1067,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>13</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>19</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>16</value>
-        <value>16</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
         <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>41</value>
+        <value>21</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point15">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>80</value>
+        <value>84</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1123,53 +1123,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>6</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>13</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>18</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
         <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>40</value>
+        <value>21</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point16">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>80</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1179,50 +1179,106 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>7</value>
-        <value>9</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
-        <value>6</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>14</value>
-        <value>16</value>
-        <value>18</value>
-        <value>20</value>
-        <value>20</value>
-        <value>21</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>17</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>41</value>
+        <value>20</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point17">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>21</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point18">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
         <value>80</value>
@@ -1235,50 +1291,50 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>9</value>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>8</value>
+        <value>3</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
         <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>16</value>
-        <value>20</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>23</value>
-        <value>22</value>
-        <value>20</value>
-        <value>14</value>
-        <value>12</value>
-        <value>13</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
         <value>10</value>
         <value>11</value>
         <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
         <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>46</value>
+        <value>24</value>
       </humidity>
     </parameters>
-    <parameters applicable-location="point18">
+    <parameters applicable-location="point19">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
         <value>78</value>
@@ -1291,109 +1347,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>9</value>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>10</value>
-        <value>10</value>
-        <value>8</value>
-        <value>8</value>
-        <value>8</value>
-        <value>7</value>
-        <value>7</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>16</value>
-        <value>19</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>23</value>
-        <value>22</value>
-        <value>20</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
         <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>46</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point19">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>77</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>10</value>
-        <value>12</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>17</value>
-        <value>19</value>
-        <value>20</value>
-        <value>21</value>
-        <value>22</value>
         <value>23</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>21</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>18</value>
-        <value>16</value>
-        <value>15</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>42</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point20">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>80</value>
+        <value>84</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1403,52 +1403,220 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-        <value>6</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
         <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>16</value>
-        <value>18</value>
-        <value>20</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>21</value>
-        <value>19</value>
-        <value>18</value>
-        <value>17</value>
-        <value>16</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>44</value>
+        <value>21</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point21">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
+        <value>84</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>19</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point22">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>12</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>21</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point23">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>9</value>
+        <value>10</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>11</value>
+        <value>12</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>20</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point24">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
         <value>80</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
@@ -1459,221 +1627,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>9</value>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>16</value>
-        <value>19</value>
-        <value>20</value>
-        <value>21</value>
-        <value>22</value>
-        <value>22</value>
-        <value>21</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>20</value>
-        <value>18</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>14</value>
-        <value>13</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>44</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point22">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>77</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>10</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
         <value>11</value>
         <value>12</value>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>17</value>
-        <value>20</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>25</value>
-        <value>21</value>
-        <value>18</value>
-        <value>17</value>
-        <value>18</value>
-        <value>18</value>
-        <value>15</value>
-        <value>15</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>47</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point23">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>77</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>10</value>
         <value>12</value>
-        <value>14</value>
-        <value>15</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>8</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>17</value>
-        <value>20</value>
-        <value>21</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>20</value>
-        <value>16</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
+        <value>12</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>47</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point24">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>77</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>9</value>
-        <value>11</value>
-        <value>13</value>
-        <value>14</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>17</value>
-        <value>20</value>
-        <value>22</value>
-        <value>22</value>
         <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>24</value>
-        <value>23</value>
-        <value>22</value>
-        <value>17</value>
-        <value>16</value>
-        <value>17</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>50</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point25">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>75</value>
+        <value>78</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1683,53 +1683,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>11</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>22</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>22</value>
-        <value>23</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>21</value>
-        <value>19</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
+        <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>48</value>
+        <value>24</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point26">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>77</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1739,53 +1739,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>8</value>
-        <value>10</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
-        <value>6</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>18</value>
-        <value>19</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>21</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>18</value>
-        <value>16</value>
-        <value>15</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>54</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point27">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>77</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1795,53 +1795,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>21</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>26</value>
-        <value>26</value>
-        <value>22</value>
-        <value>20</value>
-        <value>21</value>
-        <value>20</value>
-        <value>20</value>
-        <value>19</value>
-        <value>19</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>52</value>
+        <value>19</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point28">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>75</value>
+        <value>80</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1851,53 +1851,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>11</value>
-        <value>12</value>
-        <value>14</value>
-        <value>15</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>19</value>
-        <value>23</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>26</value>
-        <value>26</value>
-        <value>23</value>
-        <value>21</value>
-        <value>21</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>17</value>
+        <value>10</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
+        <value>11</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>50</value>
+        <value>20</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point29">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>75</value>
+        <value>80</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1907,53 +1907,53 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>8</value>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>19</value>
-        <value>23</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>26</value>
-        <value>21</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>16</value>
-        <value>16</value>
+        <value>9</value>
+        <value>10</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>11</value>
+        <value>10</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>52</value>
+        <value>20</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point30">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>75</value>
+        <value>80</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
@@ -1963,162 +1963,330 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>9</value>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>19</value>
-        <value>21</value>
-        <value>23</value>
-        <value>25</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>18</value>
-        <value>17</value>
-        <value>18</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>14</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>13</value>
+        <value>13</value>
+        <value>12</value>
+        <value>11</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>57</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point31">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>78</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.01</value>
-        <value>0.01</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>9</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>24</value>
-        <value>26</value>
-        <value>28</value>
-        <value>27</value>
-        <value>26</value>
-        <value>26</value>
-        <value>23</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>57</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point32">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>73</value>
+        <value>82</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.01</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
         <value>9</value>
         <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>23</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point33">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>82</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>20</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point34">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>78</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
+        <value>3</value>
+      </wind-speed>
+      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed Gust</name>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
         <value>9</value>
         <value>9</value>
         <value>8</value>
+        <value>7</value>
+      </wind-speed>
+      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
+        <name>Daily Minimum Relative Humidity</name>
+        <value>22</value>
+      </humidity>
+    </parameters>
+    <parameters applicable-location="point35">
+      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
+        <name>Daily Maximum Temperature</name>
+        <value>78</value>
+      </temperature>
+      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
+        <name>Liquid Precipitation Amount</name>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
+      </precipitation>
+      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
+        <name>Wind Speed</name>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
         <value>7</value>
         <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>21</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>23</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>21</value>
-        <value>20</value>
-        <value>19</value>
-        <value>17</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>11</value>
+        <value>13</value>
+        <value>13</value>
+        <value>13</value>
+        <value>11</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>58</value>
+        <value>23</value>
       </humidity>
     </parameters>
-    <parameters applicable-location="point33">
+    <parameters applicable-location="point36">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
         <value>77</value>
@@ -2126,167 +2294,55 @@
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.01</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>9</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>9</value>
-        <value>9</value>
-        <value>7</value>
+        <value>4</value>
         <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>21</value>
-        <value>22</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>24</value>
-        <value>26</value>
-        <value>27</value>
-        <value>22</value>
-        <value>21</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>19</value>
-        <value>18</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>56</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point34">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>73</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>10</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
-        <value>10</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
         <value>9</value>
         <value>9</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>22</value>
-        <value>24</value>
-        <value>26</value>
-        <value>27</value>
-        <value>26</value>
-        <value>25</value>
-        <value>26</value>
-        <value>27</value>
-        <value>28</value>
-        <value>29</value>
-        <value>25</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>22</value>
-        <value>23</value>
-        <value>22</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>12</value>
+        <value>13</value>
+        <value>14</value>
+        <value>14</value>
+        <value>13</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>57</value>
+        <value>27</value>
       </humidity>
     </parameters>
-    <parameters applicable-location="point35">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>73</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.00</value>
-        <value>0.00</value>
-        <value>0.00</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>21</value>
-        <value>23</value>
-        <value>25</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>25</value>
-        <value>26</value>
-        <value>27</value>
-        <value>27</value>
-        <value>22</value>
-        <value>20</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>22</value>
-        <value>22</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>55</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point36">
+    <parameters applicable-location="point37">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
         <value>75</value>
@@ -2299,1055 +2355,999 @@
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>15</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>22</value>
-        <value>24</value>
-        <value>26</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>21</value>
-        <value>18</value>
-        <value>18</value>
-        <value>19</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>7</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>56</value>
-      </humidity>
-    </parameters>
-    <parameters applicable-location="point37">
-      <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
-        <name>Daily Maximum Temperature</name>
-        <value>68</value>
-      </temperature>
-      <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
-        <name>Liquid Precipitation Amount</name>
-        <value>0.01</value>
-        <value>0.08</value>
-        <value>0.02</value>
-      </precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed</name>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>14</value>
-      </wind-speed>
-      <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
-        <name>Wind Speed Gust</name>
-        <value>26</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
         <value>27</value>
-        <value>29</value>
-        <value>29</value>
-        <value>29</value>
-        <value>28</value>
-        <value>26</value>
-      </wind-speed>
-      <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
-        <name>Daily Minimum Relative Humidity</name>
-        <value>68</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point38">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>73</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.01</value>
-        <value>0.11</value>
-        <value>0.03</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>26</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>24</value>
-        <value>23</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>9</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>65</value>
+        <value>24</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point39">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.10</value>
-        <value>0.01</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>12</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>16</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>25</value>
-        <value>26</value>
-        <value>25</value>
-        <value>24</value>
-        <value>22</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
-        <value>21</value>
+        <value>4</value>
+        <value>6</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>9</value>
+        <value>10</value>
+        <value>10</value>
+        <value>10</value>
+        <value>9</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>64</value>
+        <value>23</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point40">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>73</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.02</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>10</value>
-        <value>10</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>24</value>
-        <value>26</value>
-        <value>27</value>
-        <value>27</value>
-        <value>26</value>
-        <value>25</value>
-        <value>26</value>
-        <value>28</value>
-        <value>28</value>
-        <value>25</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
+        <value>4</value>
+        <value>6</value>
+        <value>6</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>59</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point41">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.01</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>13</value>
-        <value>14</value>
-        <value>16</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>17</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>25</value>
-        <value>27</value>
-        <value>27</value>
-        <value>27</value>
-        <value>27</value>
-        <value>26</value>
-        <value>27</value>
-        <value>28</value>
-        <value>27</value>
-        <value>24</value>
-        <value>21</value>
-        <value>21</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
+        <value>7</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>11</value>
+        <value>13</value>
+        <value>13</value>
+        <value>12</value>
+        <value>11</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>66</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point42">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>73</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.01</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>14</value>
-        <value>16</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>14</value>
-        <value>15</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>20</value>
-        <value>24</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>26</value>
-        <value>27</value>
-        <value>27</value>
-        <value>27</value>
-        <value>23</value>
-        <value>19</value>
-        <value>20</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>9</value>
+        <value>12</value>
+        <value>12</value>
+        <value>13</value>
+        <value>14</value>
+        <value>12</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>59</value>
+        <value>24</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point43">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.01</value>
-        <value>0.19</value>
-        <value>0.05</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>22</value>
-        <value>21</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
-        <value>21</value>
-        <value>23</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>21</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>70</value>
+        <value>26</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point44">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.03</value>
-        <value>0.21</value>
-        <value>0.03</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>14</value>
-        <value>14</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
+        <value>1</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>21</value>
-        <value>19</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>68</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point45">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.01</value>
-        <value>0.15</value>
-        <value>0.02</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>15</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>9</value>
-        <value>9</value>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>21</value>
-        <value>24</value>
-        <value>25</value>
-        <value>27</value>
-        <value>26</value>
-        <value>25</value>
-        <value>27</value>
-        <value>22</value>
-        <value>19</value>
-        <value>19</value>
-        <value>18</value>
-        <value>18</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>63</value>
+        <value>24</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point46">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.08</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>15</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>26</value>
-        <value>26</value>
-        <value>27</value>
-        <value>27</value>
-        <value>28</value>
-        <value>28</value>
-        <value>27</value>
-        <value>27</value>
-        <value>26</value>
-        <value>26</value>
-        <value>25</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>9</value>
+        <value>9</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>66</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point47">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>69</value>
+        <value>75</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
         <value>0.00</value>
-        <value>0.07</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>18</value>
-        <value>18</value>
-        <value>19</value>
-        <value>18</value>
-        <value>19</value>
-        <value>18</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>26</value>
-        <value>28</value>
-        <value>29</value>
-        <value>30</value>
-        <value>31</value>
-        <value>31</value>
-        <value>30</value>
-        <value>29</value>
-        <value>31</value>
-        <value>29</value>
-        <value>26</value>
-        <value>26</value>
-        <value>27</value>
-        <value>28</value>
-        <value>28</value>
-        <value>27</value>
-        <value>27</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>12</value>
+        <value>12</value>
+        <value>12</value>
+        <value>11</value>
+        <value>11</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>68</value>
+        <value>28</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point48">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>75</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.01</value>
-        <value>0.04</value>
+        <value>0.00</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>18</value>
-        <value>17</value>
-        <value>17</value>
-        <value>16</value>
-        <value>15</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>12</value>
-        <value>12</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>26</value>
-        <value>27</value>
-        <value>28</value>
-        <value>28</value>
-        <value>28</value>
-        <value>27</value>
-        <value>27</value>
-        <value>28</value>
-        <value>28</value>
-        <value>22</value>
-        <value>21</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
+        <value>6</value>
+        <value>7</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>7</value>
+        <value>7</value>
+        <value>9</value>
+        <value>9</value>
+        <value>10</value>
+        <value>12</value>
+        <value>13</value>
+        <value>13</value>
+        <value>12</value>
+        <value>12</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>63</value>
+        <value>27</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point49">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>66</value>
+        <value>73</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.11</value>
-        <value>0.44</value>
-        <value>0.04</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>16</value>
-        <value>17</value>
-        <value>18</value>
-        <value>18</value>
-        <value>18</value>
-        <value>18</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>25</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>24</value>
-        <value>23</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>23</value>
-        <value>24</value>
-        <value>25</value>
-        <value>24</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>5</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>9</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>81</value>
+        <value>27</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point50">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>69</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.10</value>
-        <value>0.43</value>
-        <value>0.06</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>0</value>
+        <value>1</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>1</value>
+        <value>1</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>22</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>23</value>
-        <value>23</value>
-        <value>22</value>
-        <value>21</value>
-        <value>19</value>
-        <value>18</value>
+        <value>0</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>73</value>
+        <value>26</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point51">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>68</value>
+        <value>77</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.06</value>
-        <value>0.33</value>
-        <value>0.02</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>14</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
+        <value>2</value>
+        <value>1</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>25</value>
-        <value>25</value>
-        <value>25</value>
-        <value>28</value>
-        <value>28</value>
-        <value>28</value>
-        <value>27</value>
-        <value>28</value>
-        <value>27</value>
-        <value>21</value>
-        <value>22</value>
-        <value>21</value>
-        <value>19</value>
-        <value>21</value>
-        <value>22</value>
-        <value>21</value>
-        <value>21</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>7</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>7</value>
+        <value>7</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>68</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point52">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>69</value>
+        <value>75</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.04</value>
-        <value>0.24</value>
-        <value>0.01</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>14</value>
-        <value>13</value>
-        <value>13</value>
-        <value>13</value>
-        <value>12</value>
-        <value>11</value>
-        <value>11</value>
-        <value>10</value>
-        <value>9</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>27</value>
-        <value>27</value>
-        <value>29</value>
-        <value>29</value>
-        <value>31</value>
-        <value>29</value>
-        <value>30</value>
-        <value>31</value>
-        <value>29</value>
-        <value>28</value>
-        <value>25</value>
-        <value>23</value>
-        <value>22</value>
-        <value>24</value>
-        <value>25</value>
-        <value>24</value>
-        <value>24</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>7</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>7</value>
+        <value>6</value>
+        <value>5</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>66</value>
+        <value>25</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point53">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>68</value>
+        <value>73</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.03</value>
-        <value>0.19</value>
-        <value>0.01</value>
+        <value>0.00</value>
+        <value>0.00</value>
+        <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>17</value>
-        <value>17</value>
-        <value>18</value>
-        <value>18</value>
-        <value>18</value>
-        <value>17</value>
-        <value>16</value>
-        <value>17</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>28</value>
-        <value>30</value>
-        <value>31</value>
-        <value>31</value>
-        <value>34</value>
-        <value>32</value>
-        <value>32</value>
-        <value>32</value>
-        <value>32</value>
-        <value>28</value>
-        <value>27</value>
-        <value>26</value>
-        <value>27</value>
-        <value>28</value>
-        <value>28</value>
-        <value>29</value>
-        <value>28</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>6</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
+        <value>9</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>70</value>
+        <value>27</value>
       </humidity>
     </parameters>
     <parameters applicable-location="point54">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n1-1">
         <name>Daily Maximum Temperature</name>
-        <value>69</value>
+        <value>75</value>
       </temperature>
       <precipitation type="liquid" units="inches" time-layout="k-p6h-n3-3">
         <name>Liquid Precipitation Amount</name>
-        <value>0.03</value>
-        <value>0.14</value>
+        <value>0.00</value>
+        <value>0.00</value>
         <value>0.00</value>
       </precipitation>
       <wind-speed type="sustained" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed</name>
-        <value>13</value>
-        <value>13</value>
-        <value>14</value>
-        <value>15</value>
-        <value>15</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>16</value>
-        <value>15</value>
-        <value>14</value>
-        <value>14</value>
-        <value>13</value>
-        <value>12</value>
-        <value>12</value>
-        <value>11</value>
-        <value>10</value>
+        <value>1</value>
+        <value>2</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>3</value>
+        <value>2</value>
+        <value>3</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>5</value>
+        <value>4</value>
       </wind-speed>
       <wind-speed type="gust" units="knots" time-layout="k-p1h-n17-2">
         <name>Wind Speed Gust</name>
-        <value>26</value>
-        <value>26</value>
-        <value>27</value>
-        <value>29</value>
-        <value>29</value>
-        <value>28</value>
-        <value>27</value>
-        <value>28</value>
-        <value>29</value>
-        <value>26</value>
-        <value>22</value>
-        <value>22</value>
-        <value>23</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
-        <value>24</value>
+        <value>3</value>
+        <value>5</value>
+        <value>4</value>
+        <value>4</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>6</value>
+        <value>7</value>
+        <value>8</value>
+        <value>9</value>
+        <value>10</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>11</value>
+        <value>10</value>
       </wind-speed>
       <humidity type="minimum relative" units="percent" time-layout="k-p12h-n1-4">
         <name>Daily Minimum Relative Humidity</name>
-        <value>68</value>
+        <value>28</value>
       </humidity>
     </parameters>
   </data>
