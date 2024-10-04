@@ -11,6 +11,12 @@ from matplotlib.colors import ListedColormap, BoundaryNorm
 import matplotlib.ticker as ticker
 import matplotlib.colors as mcolors
 import json
+import matplotlib.image as mpimg
+from matplotlib.offsetbox import OffsetImage, AnnotationBbox
+
+# Load In Logos
+logo1 = mpimg.imread('images/WEG_Black.png')
+logo2 = mpimg.imread('images/WoolawayWx_Logo_Black.png')
 
 # Load In Shapefiles
 fname = 'shapefiles/states/ne_10m_admin_1_states_provinces_lines.shp'
@@ -92,6 +98,14 @@ ax.add_feature(US_states_500k, edgecolor='black', linewidth=1.0)
 ax.add_feature(US_highways, edgecolor='red', linewidth=0.5)
 ax.add_feature(Counties, edgecolor='gray', linewidth=0.75)
 
+imagebox1 = OffsetImage(logo1, zoom=0.03)
+imagebox2 = OffsetImage(logo2, zoom=0.03)
+
+ab1 = AnnotationBbox(imagebox1, (0.1, 0.1), xycoords='axes fraction', frameon=False, zorder=5)
+ab2 = AnnotationBbox(imagebox2, (0.25, 0.1), xycoords='axes fraction', frameon=False, zorder=5)
+
+ax.add_artist(ab1)
+ax.add_artist(ab2)
 # Contour plot
 contour = ax.contourf(grid_lon, grid_lat, grid_winds, transform=ccrs.PlateCarree(),
                       cmap=cmap, norm=norm, zorder=3, alpha=0.7)
