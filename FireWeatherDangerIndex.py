@@ -47,6 +47,9 @@ precip = []
 MinRH = []
 Winds_Sustained = []
 
+TempFullSet = []
+WindFullSet = []
+
 # Map Bounds
 nlat = 37.25
 slat = 36
@@ -55,12 +58,12 @@ elon = -93
 area = (wlon, elon, slat, nlat)
 
 # Varible Weights
-Temp = 0.15
+Temp = 0.1
 # Manual max is 0.15
-Manual = 0.14
+Manual = 0.18
 FuelMoisture_Var = 0.25
-Wind_Sus = 0.1
-Wind_Gusts = 0.15
+Wind_Sus = 0.125
+Wind_Gusts = 0.175
 MinRH_Var = 20
 
 location_elements = root.findall('.//location')
@@ -74,6 +77,7 @@ weather_params = root.findall('.//parameters')
 
 # Temperature Impacts
 for weatherdata in weather_params:
+    TempFullSet.append(float(weatherdata[0][1].text))
     if float(weatherdata[0][1].text) >= 90:
         temps.append(100 * Temp / 100)
     elif float(weatherdata[0][1].text) >= 80:
@@ -122,12 +126,13 @@ for weatherdata in weather_params:
     max_wind_sus = 0  # Start with the smallest possible number
 
     # Loop through x from 1 to 25
-    for z in range(1,len(weatherdata[2])-2 ):  # The range goes from 1 to 25
+    for z in range(1, len(weatherdata[2])-2):  # The range goes from 1 to 25
         LocWindSus = float(weatherdata[2][z].text)
         # Update max_wind_gust if LocWindGusts is larger
         max_wind_sus = max(max_wind_sus, LocWindSus)
 # convert to MPH
     max_wind_sus = max_wind_sus * 1.15
+    WindFullSet.append(max_wind_sus)
     if float(max_wind_sus) > 15:
         Winds_Sustained.append(100 * Wind_Sus * 0.01)
     elif 5 < float(max_wind_sus) < 15:
@@ -190,19 +195,19 @@ else:
 MtVernon_FM = fuel_moisture
 
 fuel_moisture = (MtVernon_FM + Gateway_FM + Cassville_FM)/3
+print('Current Fuel Moisture: ', fuel_moisture)
 
 now = datetime.datetime.now()
 nine_am = now.replace(hour=11, minute=0, second=0, microsecond=0)
+avgforecasttemp = ((sum(TempFullSet)/len(TempFullSet)))
+avgforecastwind = ((sum(WindFullSet)/len(WindFullSet)))
+print(f"Avg Temp: {avgforecasttemp}")
+print(f"Avg Wind: {avgforecastwind}")
 if now < nine_am:
-        avgforecasttemp = ((sum(temps)/len(temps))/Temp)/70
-        avgforecastwind = ((sum(Winds_Sustained)/len(Winds_Sustained))/Wind_Sus)/0.8
-        print(f"Avg Temp: {avgforecasttemp}")
-        print(f"Avg Wind: {avgforecastwind}")
-
-        fuel_moisture = fuel_moisture + (-10*avgforecastwind + -10*avgforecasttemp)
-        print(fuel_moisture)
+    fuel_moisture = fuel_moisture + -((fuel_moisture/2)*(((avgforecasttemp/90)/2)+((avgforecastwind/15)/2)))
+    print('Forecasted Fuel Moisture: ', fuel_moisture)
 else:
-        print("It is 11 AM or later.")
+    print("It is 11 AM or later.")
 
 if fuel_moisture > 20:
     fuel_moisture_input = 0
@@ -265,11 +270,14 @@ ax.add_feature(Counties, edgecolor='gray', linewidth=0.75)
 imagebox1 = OffsetImage(logo1, zoom=0.03)
 imagebox2 = OffsetImage(logo2, zoom=0.03)
 
-ab1 = AnnotationBbox(imagebox1, (0.1, 0.1), xycoords='axes fraction', frameon=False, zorder=5)
-ab2 = AnnotationBbox(imagebox2, (0.25, 0.1), xycoords='axes fraction', frameon=False, zorder=5)
+ab1 = AnnotationBbox(imagebox1, (0.1, 0.1),
+                     xycoords='axes fraction', frameon=False, zorder=5)
+ab2 = AnnotationBbox(imagebox2, (0.25, 0.1),
+                     xycoords='axes fraction', frameon=False, zorder=5)
 
 ax.add_artist(ab1)
 ax.add_artist(ab2)
+
 # Contour plot
 contour = ax.contourf(grid_lon, grid_lat, grid_FDIData, transform=ccrs.PlateCarree(),
                       cmap=cmap_FDI_Colors, zorder=3, alpha=0.7, norm=norm, levels=FDI_Levels)
@@ -281,7 +289,7 @@ cbar.set_ticks([0.3, 0.65, 0.75, 0.85, 0.95])
 cbar.ax.set_yticklabels(['Low', 'Moderate', 'High', 'Very High', 'Extreme'])
 # Town coordinates (example)
 with open('towns.json', 'r') as f:
-    towns =json.load(f)
+    towns = json.load(f)
 
 # KDTree for fast nearest neighbor search
 grid_points = np.array([grid_lon.flatten(), grid_lat.flatten()]).T

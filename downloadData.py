@@ -19,10 +19,7 @@ begin_date = today.strftime('%Y-%m-%dT00:00:00')
 end_date = end_day.strftime('%Y-%m-%dT00:00:00')
 
 # URL with placeholders for dynamic date insertion
-url = ("https://digital.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?"
-       "whichClient=NDFDgenSquare&lat=&lon=&listLatLon=&lat1=&lon1=&lat2=&lon2=&resolutionSub=&listLat1="
-       "&listLon1=&listLat2=&listLon2=&resolutionList=&endPoint1Lat=&endPoint1Lon=&endPoint2Lat=&endPoint2Lon="
-       "&listEndPoint1Lat=&listEndPoint1Lon=&listEndPoint2Lat=&listEndPoint2Lon=&zipCodeList=&listZipCodeList="
+url = ("https://digital.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgenSquare&lat=&lon=&listLatLon=&lat1=&lon1=&lat2=&lon2=&resolutionSub=&listLat1=&listLon1=&listLat2=&listLon2=&resolutionList=&endPoint1Lat=&endPoint1Lon=&endPoint2Lat=&endPoint2Lon=&listEndPoint1Lat=&listEndPoint1Lon=&listEndPoint2Lat=&listEndPoint2Lon=&zipCodeList=&listZipCodeList="
        "&centerPointLat=36.62&centerPointLon=-94&distanceLat=140.0&distanceLon=80.0&resolutionSquare=40.0&listCenterPointLat="
        "&listCenterPointLon=&listDistanceLat=&listDistanceLon=&listResolutionSquare=&citiesLevel=&listCitiesLevel=&sector="
        "&gmlListLatLon=&featureType=&requestedTime=&startTime=&endTime=&compType=&propertyName=&product=time-series&XMLformat="

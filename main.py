@@ -11,6 +11,8 @@ if result.returncode == 200:
     import WindGustsMap
     print("Plotting Rainfall Map...")
     import PrecipMap
+    print("Plotting RH...")
+    import RHMap
     print("Plotting Fire Danger Index...")
     import FireWeatherDangerIndex
     print("Uploading Files...")

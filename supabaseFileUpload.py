@@ -48,3 +48,11 @@ with open(filepath, 'rb') as f:
         file=f,
         file_options={"cache-control": "3600", "upsert": "true"}
     )
+
+filepath = "map_rh.jpg"
+with open(filepath, 'rb') as f:
+    upload_response = supabase.storage.from_("weg_public").upload(
+        f"webimgs/forecast_maps/{filepath}",
+        file=f,
+        file_options={"cache-control": "3600", "upsert": "true"}
+    )
