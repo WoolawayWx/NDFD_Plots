@@ -204,7 +204,7 @@ avgforecastwind = ((sum(WindFullSet)/len(WindFullSet)))
 print(f"Avg Temp: {avgforecasttemp}")
 print(f"Avg Wind: {avgforecastwind}")
 if now < nine_am:
-    fuel_moisture = fuel_moisture + -((fuel_moisture/2)*(((avgforecasttemp/90)/2)+((avgforecastwind/15)/2)))
+    fuel_moisture = fuel_moisture + -((fuel_moisture)/2*(((avgforecasttemp/90)/2)+((avgforecastwind/15)/2)))
     print('Forecasted Fuel Moisture: ', fuel_moisture)
 else:
     print("It is 11 AM or later.")
