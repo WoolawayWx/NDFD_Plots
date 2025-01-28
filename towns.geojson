@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Rocky Comfort" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.092425, 36.743364]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Cassville" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.8655, 36.6815]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Anderson" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.443386, 36.646879]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Joplin" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.507271, 37.075394]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Neosho" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.37452, 36.857717]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Miami" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.87761931913234, 36.88719530554497]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Grove" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.77114227415328, 36.58435482022429]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Decatur" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.46301790267803, 36.340013237978596]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Bentonville" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.23202598080331, 36.360597235995144]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Rogers" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.12241725803072, 36.310141983858564]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Springdale" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.14538289518306, 36.166165333199736]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Eureka Springs" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.73960032050323, 36.39969218029382]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Shell Knob" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.62059656112679, 36.623708470880956]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Branson" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.2301807196966, 36.63878735470797]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Crane" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.57570916974939, 36.89968539849111]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Aurora" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.71454688526131, 36.96060061140863]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Billings" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.55587521039052, 37.06312841377201]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Monett" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.92332540482813, 36.91387548089791]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Nixa" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.29859281748729, 37.040332591264786]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Mt Vernon" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.82668508208847, 37.092655226023034]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Sarcoxie" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.12410289843338, 37.08144627124506]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Seligman" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.93675309278561, 36.528298830320956]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Jay" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.79887111570791, 36.42379364900375]
+        }
+      }
+    ]
+  }
+  

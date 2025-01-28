@@ -16,7 +16,12 @@ import json
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
+import pandas as pd
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
 
+# Trigger FIRMS Data API
+import FIRMS_Data
 # Load In Logos
 logo1 = mpimg.imread('images/WEG_Black.png')
 logo2 = mpimg.imread('images/WoolawayWx_Logo_Black.png')
@@ -307,13 +312,31 @@ for town, (lat_town, lon_town) in towns.items():
     ax.text(lon_town, lat_town, f'{nearest_temp:.2f}', color='black', fontsize=7,
             transform=ccrs.PlateCarree(), ha='center', va='bottom', fontweight='bold')
 
+# Define Basemap instance
+m = Basemap(projection='merc', llcrnrlat=slat, urcrnrlat=nlat,
+            llcrnrlon=wlon, urcrnrlon=elon, resolution='i')
 
 # Get the date.
+# Add FIRMS data points to the map
+firms_data = pd.read_csv('/Users/cade/WoolawayWx/_Dev/Forecast/NDFD Plot Maps/FIRMS_Data.csv')
+
+# Extract latitude and longitude
+firms_latitudes = firms_data['latitude']
+firms_longitudes = firms_data['longitude']
+
+# Plot FIRMS data points
+ax.scatter(firms_longitudes, firms_latitudes, color='red', s=10, transform=ccrs.PlateCarree(), zorder=4, label='FIRMS Reported Fire')
+
+# Add legend
+plt.legend(loc='upper right')
+
+# Get the Date
 x = datetime.datetime.now()
 date_day = x.strftime("%d")
-todaysdate = f"{x.month}-{date_day}-{x.year}"
+current_time = x.strftime("%H:%M:%S")
+todaysdate = f"{x.month}-{date_day}-{x.year} {current_time}"
 print(todaysdate)
 
 
-plt.title(f'Forecasted Fire Danger Index | {todaysdate}')
-plt.savefig('FWR.jpg', bbox_inches='tight', dpi=200)
+plt.title(f'Real Time Fire Danger Index | {todaysdate}')
+plt.savefig('FireWx_RT.jpg', bbox_inches='tight', dpi=200)
