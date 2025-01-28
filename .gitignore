@@ -10,5 +10,6 @@ pycache/*
 *.xml
 *.png
 *.csv
+NDFD_Plots_env/
 
 .env

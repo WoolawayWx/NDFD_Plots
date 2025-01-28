@@ -33,6 +33,11 @@ fname3 = 'shapefiles/counties/cb_2018_us_county_5m.shp'
 Counties = ShapelyFeature(Reader(fname3).geometries(),
                           ccrs.PlateCarree(), facecolor='none')
 
+fname4 = 'shapefiles/ne_10m_admin_0_boundary_lines_land/ne_10m_admin_0_boundary_lines_land.shp'
+World_Boundaries = ShapelyFeature(Reader(fname4).geometries(), ccrs.PlateCarree(), facecolor='none')
+
+fname5 = 'shapefiles/ne_10m_land/ne_10m_land.shp'
+Land = ShapelyFeature(Reader(fname5).geometries(), ccrs.PlateCarree(), facecolor='none')
 file_path = 'NDFD_Data.xml'
 tree = ET.parse(file_path)
 root = tree.getroot()
@@ -260,9 +265,8 @@ ax = fig.add_subplot(1, 1, 1, projection=map_crs)
 ax.set_extent([wlon, elon, slat, nlat], crs=ccrs.PlateCarree())
 
 # Add map features
-ax.add_feature(cfeature.LAND, zorder=1, edgecolor='k')
-ax.add_feature(cfeature.STATES.with_scale('10m'), linewidth=1.0, zorder=2)
-ax.add_feature(cfeature.BORDERS.with_scale('10m'), zorder=1)
+ax.add_feature(Land, zorder=1, edgecolor='k')
+ax.add_feature(World_Boundaries.with_scale('10m'), zorder=1)
 ax.add_feature(US_states_500k, edgecolor='black', linewidth=1.0)
 ax.add_feature(US_highways, edgecolor='red', linewidth=0.5)
 ax.add_feature(Counties, edgecolor='gray', linewidth=0.75)
