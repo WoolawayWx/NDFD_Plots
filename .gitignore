@@ -8,5 +8,7 @@ __pycache__/
 pycache/*
 *.jpg
 *.xml
+*.png
+*.csv
 
 .env
