@@ -266,7 +266,7 @@ ax.set_extent([wlon, elon, slat, nlat], crs=ccrs.PlateCarree())
 
 # Add map features
 ax.add_feature(Land, zorder=1, edgecolor='k')
-ax.add_feature(World_Boundaries.with_scale('10m'), zorder=1)
+ax.add_feature(World_Boundaries, zorder=1)
 ax.add_feature(US_states_500k, edgecolor='black', linewidth=1.0)
 ax.add_feature(US_highways, edgecolor='red', linewidth=0.5)
 ax.add_feature(Counties, edgecolor='gray', linewidth=0.75)
