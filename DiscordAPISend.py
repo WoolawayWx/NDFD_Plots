@@ -12,6 +12,6 @@ def notify_bot():
 
 import time
 print("Processing...")
-time.sleep(120)
+time.sleep(5)
 
 notify_bot()

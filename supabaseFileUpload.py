@@ -1,4 +1,5 @@
 from supabase import create_client, Client, ClientOptions
+from datetime import datetime
 
 url: str = "https://rxvuigbyexdarrlusojh.supabase.co"
 key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ4dnVpZ2J5ZXhkYXJybHVzb2poIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDA1MzI2MzQsImV4cCI6MjAxNjEwODYzNH0.74S-9Do20NbZLDuFAldxkS1fHEVHRTjCjOClOPE_psg"  # Replace with your anon or service key
@@ -15,52 +16,17 @@ response = supabase.auth.sign_in_with_password({
     "password": password
 })
 
-# Now you can interact with Supabase as an authenticated user
-filepath = "map_temp.jpg"
+def upload_image(imagename: str):
+    filepath = f"map_{imagename}.jpg"
+    with open(filepath, 'rb') as f:
+        upload_response = supabase.storage.from_("weg_public").upload(
+            f"webimgs/forecast_maps/{filepath}",
+            file=f,
+            file_options={"cache-control": "no-cache", "upsert": "true"}
+        )
+    return upload_response
 
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
+image_names = ["temp", "windgusts", "winds", "FWR", "rh", "precip"]
 
-filepath = "map_windgusts.jpg"
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
-
-filepath = "map_winds.jpg"
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
-
-filepath = "FWR.jpg"
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
-
-filepath = "map_rh.jpg"
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
-
-filepath = "map_precip.jpg"
-with open(filepath, 'rb') as f:
-    upload_response = supabase.storage.from_("weg_public").upload(
-        f"webimgs/forecast_maps/{filepath}",
-        file=f,
-        file_options={"cache-control": "3600", "upsert": "true"}
-    )
+for imagename in image_names:
+    upload_image(imagename)
