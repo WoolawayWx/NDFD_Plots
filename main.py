@@ -24,7 +24,7 @@ if result.returncode == 200:
     import supabaseFileUpload
     print("Done Uploading Files")
     print("Sending API to Discord Bot")
-    import DisodrdAPISend
+    import DiscordAPISend
     print("API Sent")
     print("Done")
 else:
