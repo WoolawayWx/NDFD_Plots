@@ -22,6 +22,10 @@ if result.returncode == 200:
     import FireWeatherDangerIndex
     print("Uploading Files...")
     import supabaseFileUpload
-    print('Done')
+    print("Done Uploading Files")
+    print("Sending API to Discord Bot")
+    import DisodrdAPISend
+    print("API Sent")
+    print("Done")
 else:
     print('XML Data Error')
