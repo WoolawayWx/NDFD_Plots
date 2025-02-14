@@ -11,5 +11,5 @@ pycache/*
 *.png
 *.csv
 NDFD_Plots_env/
-
+venv/
 .env
